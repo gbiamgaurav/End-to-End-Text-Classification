@@ -1,6 +1,6 @@
 
 from textClassification.config.configuration import ConfigurationManager
-from textClassification.conponents.data_validation import DataValiadtion
+from textClassification.components.data_validation import DataValiadtion
 from textClassification.logging import logger
 
 

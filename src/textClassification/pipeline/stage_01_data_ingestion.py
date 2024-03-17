@@ -1,6 +1,6 @@
 
 from textClassification.config.configuration import ConfigurationManager
-from textClassification.conponents.data_ingestion import DataIngestion
+from textClassification.components.data_ingestion import DataIngestion
 from textClassification.logging import logger
 
 

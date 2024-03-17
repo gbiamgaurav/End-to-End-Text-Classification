@@ -1,6 +1,6 @@
 
 from textClassification.config.configuration import ConfigurationManager
-from textClassification.conponents.data_transformation import DataTransformation
+from textClassification.components.data_transformation import DataTransformation
 from textClassification.logging import logger
 
 
